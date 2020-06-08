@@ -10,7 +10,7 @@ class ItemsController {
             return {
                 id: item.id,
                 title: item.title,
-                image_url: `http://cy-eh4.anonymous.mobile.exp.direct:3333/uploads/${item.image}`
+                image_url: `http://167.71.151.12:3333/uploads/${item.image}`
             }
         })
     
