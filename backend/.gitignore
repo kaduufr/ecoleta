@@ -1,2 +1,7 @@
-/node_modules/*
+node_modules
 *lock.json
+uploads/*
+
+!uploads/.gitkeep
+
+*.sqlite
